@@ -1,7 +1,7 @@
 """
 Created on Thu Jan 29 11:00:03 2026
 
-@author: milla
+@author: millan
 
 Calcula los campos E y H dispersados por una esfera de índice n2 y size parameter q=ka
 """
